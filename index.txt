@@ -1,5 +1,4 @@
 <body> 
 <h1>Hi my name is Sneha Shrestha</h2>
-<p>huhsjfgsdfgufj</p>
 </body>
   
